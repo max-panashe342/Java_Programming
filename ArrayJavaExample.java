@@ -13,3 +13,8 @@ public class ArrayJavaExample {
     }
     
 }
+
+
+//new ----> creates a new array object
+//int ----> store integer values
+//[5] ----> Create space for 5 elements
